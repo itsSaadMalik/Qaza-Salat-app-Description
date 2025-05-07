@@ -1,5 +1,5 @@
 # Qaza-Salat-app-Description
-# 🕌 Qaza Salat App
+# <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/icon.png" height="40" width="40" align="center" /> Qaza Salat App
 
 **Qaza Salat App** is a Flutter-based mobile application designed to help users efficiently manage and track their missed (Qaza) prayers. The app aims to support users in staying consistent and accountable in fulfilling their religious obligations.
 
