@@ -21,7 +21,7 @@
 
 ## 📱 Screenshots
 
- <img src=""/>
+ <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/img_1.png" alt="Screeshot displaying app"/>
 
 ---
 
