@@ -8,10 +8,33 @@
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
 
 ---
+## ℹ Description
+
+<p>Not every app needs to be groundbreaking — sometimes, the emphasis is on the problem, not the product.</p>
+
+<p>I recently built a small app – <strong>Qaza Salat</strong>.</p>
+
+<p>It’s not designed for the masses — it’s just relevant to a few, and that’s alright. The real emphasis here was on solving a specific, meaningful problem.</p>
+
+<p>I asked myself:</p>
+<ul>
+  <li>➡️ How can someone log missed prayers (Qaza) with minimal friction?</li>
+  <li>➡️ Could it work without even opening the app?</li>
+  <li>➡️ How do you keep personal data safe and backed up across devices?</li>
+</ul>
+
+<p>These questions led to:</p>
+<ul>
+  <li>📱 A Home Screen Widget for instant updates</li>
+  <li>🎯 Custom Goal Setting</li>
+  <li>🔐 Auth-Protected Profiles</li>
+  <li>☁️ Cloud Syncing with Firebase</li>
+</ul>
+<br>
 
 ## ✨ Features
 
-- ✅ Log and track missed prayers (Fajr, Dhuhr, Asr, Maghrib, Isha)
+- ✅ Log and track missed prayers  
 - 📊 View total and daily Qaza prayer counts
 - 🔁 Reset or update prayer logs as needed
 - 💾 Local storage for offline access
@@ -21,16 +44,18 @@
 
 ## 📱 Screenshots
 
- <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/img_1.png" alt="Screeshot displaying app"/>
-
+<p> <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/ss_image_1.png" alt="Screeshot displaying app" height="425" width="425"/>
+ <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/ss_image_2.png" alt="Screeshot displaying app" height="425" width="425"/>
+</p>
 ---
+
 
 ## 🔧 Tech Stack
 
 - **Flutter** – UI Toolkit
-- **State Management** – [Riverpod / Provider / GetX] *(specify what you used)*
-- **Local Storage** – [Hive / SharedPreferences / SQLite] *(specify what you used)*
-
+- **State Management** –  Riverpod   
+- **Local Storage** –  SharedPreferences   
+- **package** - HomeWidget package  
 ---
 
  
