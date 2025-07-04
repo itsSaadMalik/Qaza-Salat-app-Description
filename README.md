@@ -55,7 +55,8 @@
 - **Flutter** – UI Toolkit
 - **State Management** –  Riverpod   
 - **Local Storage** –  SharedPreferences   
-- **package** - HomeWidget package  
+- **package** - HomeWidget package
+- **Architecture** - Clean Arch. + MVVM
 ---
 
  
