@@ -39,12 +39,16 @@
 - 🔁 Reset or update prayer logs as needed
 - 💾 Local storage for offline access
 - 🧘‍♂️ Minimal and clean UI for a distraction-free experience
+- ⌛ Logs of all the actions(history)  
+  
 
 ---
 
 ## 📱 Screenshots
 
-<p> <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/ss_image_1.png" alt="Screeshot displaying app" height="425" width="425"/>
+<p> <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/1.png" alt="Screeshot displaying app" height="425" width="425"/>
+<p> <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/1.png" alt="Screeshot displaying app" height="425" width="425"/>
+  
  <img src="https://github.com/itsSaadMalik/Qaza-Salat-app-Description/blob/main/ss_image_2.png" alt="Screeshot displaying app" height="425" width="425"/>
 </p>
 ---
